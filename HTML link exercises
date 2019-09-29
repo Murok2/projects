@@ -1,0 +1,153 @@
+1.) Create some links to various search engines
+<html>
+<body>
+<a href = "https://ocs.iaau.edu.kg/mod/assign/view.php?id=10782&action=editsubmission"> Search the web with google </a> <br /><br />
+<a href="http://www.yahoo.com"> Search the web with Yahoo! </a> <br /><br />
+<a href="http://www.yandex.com">Search the web with Yandex! </a> <br /><br />
+<a href="http://www.bing.com"> Search the web with Bing! </a> <br /><br />
+<a href="http://www.lycos.com"> Search the web with lycos! </a> 
+</body>
+</html>
+
+2.)Create links to five different pages on five different websites that should all open in a
+new window
+
+<html>
+<head>
+<title>Links to various pages</title>
+</head>
+<body>
+<a href="http://www.landofcode.com/about.php" 
+target="_blank">
+Landofcode.com about page
+</a>
+
+<br /><br />
+
+<a href="http://www.hostforweb.com" target="_blank">
+HostForWeb Web Hosting
+</a>
+
+<br /><br />
+
+<a href="http://www.gmx.com" target="_blank">
+GMX email
+</a>
+
+<br /><br />
+
+<a href="http://www.weather.com" target="_blank">
+Find out local weather
+</a>
+
+<br /><br />
+
+<a href="http://www.math.com/homeworkhelp/Algebra.html" 
+target="_blank">
+Learn about algebra
+</a>
+</body>
+</html>
+
+3.)Create a page with a link at the top of it that when clicked will jump all the way to the
+bottom of the page.
+
+<html>
+<body>
+<a href="#bottom">Click here to jump to the bottom of the page</a>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<a name="bottom">The bottom of the page</a>
+</body>
+</html>
+
+4.)Create a page with a link at the bottom of it that when clicked will jump all the way to
+the top of the page.
+<html>
+<body>
+<a name="top">The top of the page</a>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<a href="#top">Jump to the top of the page</a>
+</body>
+</html>
+
+5.)Create a page with a link at the top of it that when clicked will jump all the way to the
+bottom of the page. At the bottom of the page there should be a link to jump back to
+the top of the page.
+<html>
+<body>
+<a name="top">The top of the page</a>
+<br /><br />
+<a href="#bottom">Jump to the bottom of the page</a>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<p>Some text</p>
+<a href="#top">Jump to the top of the page</a>
+<br /><br />
+<a name="bottom">The bottom of the page</a>
+</body>
+</html>
+
+
+6.)Create a page with a link to the file
+ <a href="HTML_%20Week%201%20Lab%20exercises.pdf#page=2">The PDF of the Home Work</a><br><br>
+  <a href="#top">Click here to jump to the top of the page
+  </a><br>
+<a name="bottom">The bottom of the page</a>
+</body>
+</html>
+
