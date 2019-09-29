@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Image Exercises</title>
+</head>
+<body>
+<!--  1. Display five different images. Skip two lines between each image. Each image should
+have a title. -->
+<img src="https://vignette.wikia.nocookie.net/harrypotter/images/7/70/Harry_Potter_%28OF_promo%29.jpg/revision/latest/scale-to-width-down/250?cb=20130615134455&path-prefix=ru"
+     alt="Harry Potter"
+     title="Harry Potter" />
+<br /><br />
+<img src="https://store.playstation.com/store/api/chihiro/00_09_000/container/RU/ru/999/EP4350-CUSA00127_00-ETH0000000003166/1561939642000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+     alt="Stranger Things"
+     title="Stranger Things" />
+<br /><br />
+<img src="https://www.picclickimg.com/d/l400/pict/202621078349_/Green-Book-2018-Viggo-Mortensen-%E2%80%93-Original-Uk.jpg"
+     alt="Green Book"
+     title="Green Book" />
+<br /><br />
+<img src="http://img.kupigolos.ru/hero/5d308118be0d1.jpg?p=bh&s=ba514bd9f8e2ab4a4ec2bfbbdeb527a1"
+     alt="Lion king"
+     title="Lion king" />
+<br /><br />
+<img src="https://streaming.amediateka.ru/vod_preview/amedia/4e1WGk8YoHiN6Efbz8TGjNEsViUWdycNA_d1e6f816z_220x150c.jpeg?preview_pos=42"
+     alt="Good Doctor"
+     title="Good Doctor" />
+<!-- 2. Display an image that has a border of size 2, a width of 200, and a height of 200 -->
+<br /><br />
+<img src="https://i.kapital.kz/c/f37df2cd82e3b0056315f1e15c7c8484/n/1024/768/f/b/c/1/7/0896f2a3d0197193fb6bb00a2cd.jpg"
+     width="200" height="200"
+     alt="Issyk-Kul lake"
+     border="2" />
+<!-- 3. Display an image that when clicked will link to a search engine of your choice (should
+be opened in a new window). -->
+<br /><br />
+<a href="https://www.kinopoisk.ru/film/mstiteli-voyna-beskonechnosti-2018-843649/"
+   target="_blank">
+    <img src="https://s1.1zoom.ru/prev2/554/The_Avengers_(2012_film)_Scarlett_Johansson_Iron_553995_300x168.jpg"
+         alt="Avengers: Endgame" />
+</a>
+<!-- 4. Display an image that when clicked will link to itself and will display the image in the
+browser by itself. -->
+<br /><br />
+<a href="https://unsplash.com/photos/t9sr43kuJN0">
+    <img src="https://images.unsplash.com/photo-1548284706-24b96b23d6d8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+         alt="Moon"
+         width="300" height="200"
+    />
+</a>
+</body>
+</html>
